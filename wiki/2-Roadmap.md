@@ -1,10 +1,21 @@
-# 2. Roadmap
+# Technical Roadmap & Milestones
 
-- v0.1 — Voice loop with Baymax persona (EN/FR/Darija).
-- v0.2 — Reminders and daily check-ins.
-- v0.3 — Safety layer for medical and crisis topics.
-- v0.4 — Desk device prototype (Raspberry Pi + screen face).
+The development of **Baymax AI Empathetic Companion** is organized into four strategic milestones:
 
-## Notes for contributors / LLM agents
-- Keep the persona in one versioned prompt file with tests for tone and refusals.
-- The safety layer is not optional: write its tests before adding wellness features.
+## Milestone Breakdown
+
+### Milestone v0.1 — Foundation & Core Scaffolding
+* **Objective:** Compassionate persona prompt architecture & clinical crisis safety guardrails.
+* **Deliverables:** Core architecture, basic pipeline, standard documentation, and CI integration.
+
+### Milestone v0.2 — Feature Expansion & Deep Pipelines
+* **Objective:** Mood journaling with semantic emotion clustering and timeline visualization.
+* **Deliverables:** Multimodal ingestion, expanded domain models, and automated test suites.
+
+### Milestone v0.3 — Intelligence, Refinement & Safety
+* **Objective:** Habit & hydration gentle reminders with voice response synthesizer.
+* **Deliverables:** Advanced evaluation logic, heuristic calibration, and performance profiling.
+
+### Milestone v0.4 — Production Readiness & Ecosystem Integration
+* **Objective:** Local-first privacy-vault database with end-to-end encrypted backup.
+* **Deliverables:** Client UI / CLI tooling, cloud deployment manifests, and partner integrations.
