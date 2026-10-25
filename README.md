@@ -3,7 +3,7 @@
 > A warm, voice-first AI companion inspired by Baymax: check-ins, reminders and carefully scoped wellness support.
 
 **Status:** pre-alpha scaffold (no code yet). **Feasibility rating:** 5/10 — strong emotional appeal; the hardware robot is out of scope for v1.
-**Idea:** #03 in the owner's ideas backlog. **Author:** Oussama EL HADJI. Part of the Bosaj ideas portfolio (sibling repo: `dual_portfolio_hub`).
+**Idea:** #03 in the owner's ideas backlog. **Author:** Oussama Elhadji (`@Bosaj`) <oussousselhadji@gmail.com>.
 
 ---
 
@@ -60,6 +60,7 @@ This repo is a **scaffold**: README + standard files, no implementation yet. If 
 # nothing to run yet — this is a scaffold.
 ```
 
-## License
+## 📄 License
+**Proprietary & Commercial Software License** — All Rights Reserved © 2026 Oussama Elhadji (`@Bosaj`) <[oussousselhadji@gmail.com](mailto:oussousselhadji@gmail.com)>.
 
-[MIT](LICENSE) — © 2026 Oussama EL HADJI
+Unauthorized copying, distribution, resale, or reverse engineering is strictly prohibited. See [LICENSE](LICENSE) for full legal terms.
